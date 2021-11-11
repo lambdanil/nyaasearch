@@ -1,0 +1,2 @@
+# nyaasearch
+nyaa.si search
